@@ -3,7 +3,7 @@
 [![Python 3.10.4](https://img.shields.io/badge/Python-3.10.4-yellow.svg)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 ## About
-PyPI-Ransomware is a ransomware POC that runs from PyPi setup.py script.
+PyPI-Ransomware is a ransomware POC that runs from the setup.py script of a package I created.
 
 If installed by mistake, please go to the Decrypt section in Usage.
 
