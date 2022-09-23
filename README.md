@@ -1,2 +1,25 @@
 # PyPI-Ransomware
-PyPI Ransomware POC
+## PyPI Ransomware POC (For Educational Purposes Only).
+[![Python 3.10.4](https://img.shields.io/badge/Python-3.10.4-yellow.svg)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+
+## About
+PyPI-Ransomware is a ransomware POC that runs from PyPi setup.py script.
+
+If installed by mistake, please go to the Decrypt section in Usage.
+
+PyPI POC url: https://pypi.org/project/WARNING-PyPI-Ransomeware/
+
+## Requirements
+The POC requires [Python3](https://www.python.org/) and pip to use.
+
+## Usage
+### Encrypt:
+WARNING: The POC will encrypt your files, use at your own risk.
+```bash
+pip install WARNING-PyPI-Ransomeware
+```
+### Decrypt:
+To decrypt your files use the decrypt.py script with the KEY file in the Decrypter directory on the user's desktop:
+```bash
+python3 decrypt.py
+```
