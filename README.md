@@ -9,7 +9,7 @@ If installed by mistake, please go to the Decrypt section in Usage.
 
 PyPI POC url: https://pypi.org/project/WARNING-PyPI-Ransomeware/
 
-Note: the POC is by no means a good ransomware, it only utilize symmetric encryption with an hardcoded key.
+Note: the POC is by no means a good ransomware, it only utilizes symmetric encryption with an hardcoded key.
 
 ## Requirements
 The POC requires [Python3](https://www.python.org/) and pip to use.
