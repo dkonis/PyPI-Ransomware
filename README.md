@@ -25,3 +25,6 @@ To decrypt your files use the decrypt.py script with the KEY file in the Decrypt
 ```bash
 python3 decrypt.py
 ```
+
+## License
+Distributed under the MIT License. See LICENSE.txt for more information.
